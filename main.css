@@ -82,9 +82,10 @@ input[type=email] {
     margin-left: 100px;
     width: 80%;
     height: 50px;
-    border-color: rgba(239, 230, 232, 255);
+    border-color:1px solid rgba(239, 230, 232, 255);
     border-radius: 25px;
-    padding-left: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
     margin-bottom: 80px;
 }
 
