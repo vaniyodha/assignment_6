@@ -178,6 +178,9 @@ input[type="submit"] {
         margin-top: 20px;
 
     }
+    .images{
+        height:45%;
+    }
 
     /* content part */
     .content {
@@ -200,7 +203,10 @@ input[type="submit"] {
     section {
         padding-left: 30px;
     }
+    
 }
+
+
 
 /* for large desktop */
 @media screen and (min-width: 1440px) {
@@ -210,7 +216,9 @@ input[type="submit"] {
         height: 10%;
         padding: 25px 25px;
     }
-
+     .images{
+         height: 50%;
+     }
     /* heading */
     h1 {
         font-size: 5rem;
